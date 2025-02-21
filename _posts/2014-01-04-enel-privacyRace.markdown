@@ -2,9 +2,9 @@
 layout: default
 modal-id: 3
 date: 2023-01-01
-img: enel-geometryDash.png
+img: enel-privacyRace.png
 alt: image-alt
-video: enel-geometryDash-video.gif
+video: enel-privacyRace-video.gif
 project-date: 2023
 client: Enel
 category: Game Development
