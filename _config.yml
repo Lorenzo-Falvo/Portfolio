@@ -41,17 +41,13 @@ footer:
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/lorenzofalvo/
-  - title: github
-    url: https://github.com/Lorenzo-Falvo
-  - title: itch-io
-    url: https://google.com/
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Milano, Italy
 
 # Credits content
-credits: 'You can email me here at lorenzofalvo.official@gmail.com.'
+credits: "You can email me here at lorenzofalvo.official@gmail.com."
 
 # Build settings
 markdown: kramdown
