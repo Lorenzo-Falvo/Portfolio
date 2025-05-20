@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Portfolio\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lorenzo\\Documents\\GitHub\\Portfolio\\_posts\\2014-01-04-battle-of-tezuma.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2014-01-04-battle-of-tezuma.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "2014-01-04-battle-of-tezuma.markdown",
-              "DocumentMoniker": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Portfolio\\_posts\\2014-01-04-battle-of-tezuma.markdown",
-              "RelativeDocumentMoniker": "_posts\\2014-01-04-battle-of-tezuma.markdown",
-              "ToolTip": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Portfolio\\_posts\\2014-01-04-battle-of-tezuma.markdown",
-              "RelativeToolTip": "_posts\\2014-01-04-battle-of-tezuma.markdown",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-20T16:30:35.039Z",
-              "EditorCaption": ""
             }
           ]
         }
