@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 6
 date: 2021-01-01
 img: battle-of-tezuma.png
 alt: image-alt
