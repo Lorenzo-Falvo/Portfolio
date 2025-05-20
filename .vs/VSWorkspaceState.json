@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css\\font-awesome\\css",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_layouts",
+  "SelectedNode": "\\_posts",
   "PreviewInSolutionExplorer": false
 }
