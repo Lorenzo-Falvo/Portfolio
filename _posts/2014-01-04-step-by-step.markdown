@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 8
+modal-id: 3
 date: 2020-01-01
 img: step-by-step.png
 alt: image-alt
