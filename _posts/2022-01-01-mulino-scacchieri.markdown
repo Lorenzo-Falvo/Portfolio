@@ -9,4 +9,5 @@ project-date: 2022
 client: Barilla - Mulino Bianco
 category: Game Development
 description: Game developed for Barilla - Mulino Bianco, where the player can play 4 different levels with each level having a different type of minigame. The game was played by over 355.768 people and has more than 2.319.476 game sessions. I was responsible of coding the entire game (Gameplay, UI, Backend Integration) but no the animations.
+description_it: Gioco sviluppato per Barilla - Mulino Bianco, con 4 livelli diversi, ognuno con un minigioco differente. Il gioco è stato giocato da oltre 355.768 persone con più di 2.319.476 sessioni di gioco. Mi sono occupato dell'intera programmazione del gioco (Gameplay, UI, integrazione backend), ma non delle animazioni.
 ---

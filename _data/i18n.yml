@@ -1,0 +1,57 @@
+en:
+  header:
+    skills: "Game Developer - Unity - Unreal Engine"
+  nav:
+    portfolio: "Portfolio"
+    about: "About"
+    lang_switch: "Switch language"
+  portfolio:
+    title: "Portfolio"
+  about:
+    title: "About"
+    p1: "👾 I am a passionate game developer with a strong foundation in C++, C#, and TypeScript. I love bringing game concepts to life, transforming ideas into immersive experiences that resonate with players. 💡I am always eager to learn and improve my skills, exploring new technologies and programming techniques to create engaging and immersive games."
+    p2: "🔔 Here you can find some of the projects and games I have developed during my studies and work experience. Stay tuned for more!"
+    download_cv: "Download CV"
+  footer:
+    location: "Location"
+    social: "Around the Web"
+    credits_title: "Contact me"
+    credits: "You can email me here at lorenzofalvo.official@gmail.com."
+  modal:
+    client: "Client"
+    date: "Date"
+    service: "Service"
+    close: "Close"
+  categories:
+    game_development: "Game Development"
+  clients:
+    academy: "Academy project"
+
+it:
+  header:
+    skills: "Sviluppatore di videogiochi - Unity - Unreal Engine"
+  nav:
+    portfolio: "Portfolio"
+    about: "Chi sono"
+    lang_switch: "Cambia lingua"
+  portfolio:
+    title: "Portfolio"
+  about:
+    title: "Chi sono"
+    p1: "👾 Sono uno sviluppatore di videogiochi appassionato, con una solida base in C++, C# e TypeScript. Mi piace dare vita alle idee di gioco, trasformandole in esperienze coinvolgenti che parlano ai giocatori. 💡Sono sempre motivato a imparare e migliorare le mie competenze, esplorando nuove tecnologie e tecniche di programmazione per creare giochi immersivi."
+    p2: "🔔 Qui puoi trovare alcuni dei progetti e dei giochi che ho sviluppato durante gli studi e l'esperienza lavorativa. Resta sintonizzato per altre novità!"
+    download_cv: "Scarica CV"
+  footer:
+    location: "Posizione"
+    social: "Social"
+    credits_title: "Contattami"
+    credits: "Puoi scrivermi qui: lorenzofalvo.official@gmail.com."
+  modal:
+    client: "Cliente"
+    date: "Data"
+    service: "Servizio"
+    close: "Chiudi"
+  categories:
+    game_development: "Sviluppo videogiochi"
+  clients:
+    academy: "Progetto accademico"

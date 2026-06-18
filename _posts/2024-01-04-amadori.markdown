@@ -9,4 +9,5 @@ project-date: 2024
 client: Amadori
 category: Game Development
 description: Game developed for Amadori, a Toon Blast style game where the player must click on the screen in order to match the same tiles in order to score points. I was responsible of coding the entire game (Gameplay, UI, Backend Integration, Animations)
+description_it: Gioco sviluppato per Amadori, in stile Toon Blast, in cui il giocatore deve toccare lo schermo per abbinare le tessere uguali e fare punti. Mi sono occupato dell'intera programmazione del gioco (Gameplay, UI, integrazione backend, animazioni).
 ---

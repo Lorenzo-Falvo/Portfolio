@@ -476,6 +476,63 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
 
+.navbar .lang-switcher {
+    display: flex;
+    align-items: center;
+}
+
+.navbar .lang-btn {
+    margin: 10px 0 10px 12px;
+    padding: 6px 10px;
+    border: 2px solid #{{ site.color.primary }};
+    border-radius: 4px;
+    background: transparent;
+    color: #{{ site.color.primary }};
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 1;
+    cursor: pointer;
+    outline: 0;
+}
+
+.navbar .lang-btn:hover,
+.navbar .lang-btn:focus {
+    background-color: #{{ site.color.primary }};
+    color: #fff;
+}
+
+.navbar .lang-btn .lang-option {
+    opacity: 0.45;
+    transition: opacity 0.2s ease;
+}
+
+.navbar .lang-btn .lang-option.active {
+    opacity: 1;
+}
+
+.navbar .lang-btn .lang-separator {
+    margin: 0 4px;
+    opacity: 0.45;
+}
+
+@media(min-width:768px) {
+    .navbar .lang-btn {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .navbar-fixed-top.navbar-shrink .lang-btn {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
+.portfolio-modal .post-description {
+    white-space: pre-line;
+}
+
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
 .modal.fade.in {

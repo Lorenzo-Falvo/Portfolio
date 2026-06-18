@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 {% include head.html %}
 
 <body id="page-top" class="index">
+  <script type="application/json" id="i18n-data">{{ site.data.i18n | jsonify }}</script>
   {% include nav.html %}
   {% include header.html %}
   {% include portfolio_grid.html %}

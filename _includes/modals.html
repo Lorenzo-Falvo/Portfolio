@@ -17,27 +17,27 @@
             <hr class="star-primary">
             <img src="img/portfolio/{{ post.video }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
-            <p>{{ post.description }}</p>
+            <p class="post-description" data-desc-en="{{ post.description | strip_newlines | escape }}" data-desc-it="{{ post.description_it | default: post.description | strip_newlines | escape }}">{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
+              <li><span data-i18n="modal.client">Client</span>:
+                <strong data-client="{{ post.client }}">{{ post.client }}</strong>
               </li>
               {% endif %}
               {% if post.project-date %}
-              <li>Date:
+              <li><span data-i18n="modal.date">Date</span>:
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
-                <strong>{{ post.category }}</strong>
+              <li><span data-i18n="modal.service">Service</span>:
+                <strong data-category="{{ post.category }}">{{ post.category }}</strong>
               </li>
               {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
-              Close</button>
+              <span data-i18n="modal.close">Close</span></button>
           </div>
         </div>
       </div>
