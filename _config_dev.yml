@@ -1,0 +1,3 @@
+# Local development overrides (used with: bundle exec jekyll serve --config _config.yml,_config_dev.yml)
+url: "http://127.0.0.1:4000"
+baseurl: ""
